@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TshirtWorld — Project</title>
+    <meta content="The project page." name="description">
+    <!-- Styles-->
+    <link rel="stylesheet" href="../assets/styles/style.css">
+    <link rel="stylesheet" href="../assets/styles/custom.css">
+    <!-- Favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="../assets/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="../assets/images/favicon/safari-pinned-tab.svg" color="#000000">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+  </head>
+  <body>
+    <div class="wrapper">
+      <!-- Header-->
+      <header class="header"><a class='brand' href='/'><img class="default" alt="TshirtWorld example image" src="../assets/images/logo.svg"><img class="white" alt="TshirtWorld example image" src="../assets/images/logo-white.svg"></a>
+        <!-- Navigation-->
+        <ul class="menu main">
+          <li class="menu-item has-dropdown"><a class='menu-link' href='/'>Home</a>
+            <!-- Dropdown-->
+            <ul class="dropdown-nav">
+              <li class="menu-item"><a class='menu-link' href='/'>Studio</a></li>
+              <li class="menu-item"><a class='menu-link' href='/index-freelancer'>Freelancer</a></li>
+            </ul>
+          </li>
+          <li class="menu-item has-dropdown"><a class='menu-link' href='/pages/about-studio'>About</a>
+            <!-- Dropdown-->
+            <ul class="dropdown-nav">
+              <li class="menu-item"><a class='menu-link' href='/pages/about-studio'>Studio</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/about-freelancer'>Freelancer</a></li>
+            </ul>
+          </li>
+          <li class="menu-item has-dropdown"><a class='menu-link' href='/pages/elements'>Features</a>
+            <!-- Dropdown-->
+            <ul class="dropdown-nav">
+              <li class="menu-item"><a class='menu-link' href='/pages/elements'>Elements</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/alt-menu'>Alternative Menu</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/one-pager'>One-page website</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/error'>Error page</a></li>
+            </ul>
+          </li>
+          <li class="menu-item has-dropdown"><a class='menu-link' href='/pages/portfolio-default'>Portfolio</a>
+            <!-- Dropdown-->
+            <ul class="dropdown-nav">
+              <li class="menu-item"><a class='menu-link' href='/pages/portfolio-default'>Default</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/portfolio-lightbox'>Lightbox</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/portfolio-masonry'>Masonry</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/portfolio-no-space'>No-space</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/portfolio-random-space'>Random-space</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/portfolio-filters'>Filterable</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/project-single-harrys'>Single Project</a></li>
+            </ul>
+          </li>
+          <li class="menu-item has-dropdown"><a class='menu-link' href='/pages/blog'>Blog</a>
+            <!-- Dropdown-->
+            <ul class="dropdown-nav">
+              <li class="menu-item"><a class='menu-link' href='/pages/blog'>Blog</a></li>
+              <li class="menu-item"><a class='menu-link' href='/pages/blog-single'>Single post</a></li>
+              <li class="menu-item"></li>
+            </ul>
+          </li>
+          <li class="menu-item"><a class='menu-link' href='/pages/contact'>Contact</a></li>
+        </ul>
+        <!-- About section-->
+        <div class="menu about">
+          <p>My goal is to make the digital world more beautiful. I believe that true craftmanship stands out with passion.</p>
+        </div>
+        <!-- Social Navigation-->
+        <ul class="menu social">
+          <li class="menu-item"><a class="menu-link anchor-link" href="#">Instagram</a></li>
+          <li class="menu-item"><a class="menu-link anchor-link" href="#">Behance</a></li>
+          <li class="menu-item"><a class="menu-link anchor-link" href="#">Twitter</a></li>
+        </ul>
+      </header>
+      <!-- Burger menu-->
+      <div class="burger">
+        <hr>
+        <hr>
+        <hr>
+      </div>
+      <div class="content">
+        <section class="section-size-4">
+          <div class="container">
+            <div class="grid">
+              <div class="column-5">
+                <h4>The packaging of</h4>
+                <h1 class="animated-text">Harry's Cartridges</h1>
+                <p>We had the great privilege to work in-house at Harry's for a few years. One of the projects we worked on while being there was the packaging for Target, helping them reinvent how to display Harry's for retail.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="image"><img alt="TshirtWorld example image" src="../assets/images/work/harrys-2/7.jpg"></section>
+        <section class="section-size-4">
+          <div class="container">
+            <div class="grid centered">
+              <div class="column-5">
+                <h2>More color.<br>More fun.</h2>
+              </div>
+              <div class="column-5 offset-2">
+                <p>Nearly every project we've made since 2003 was award-winning. This one set the bar even higher by being internationally recognized as one of the best digital experiences ever made.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div class="container">
+            <div class="width-8 centered image"><img alt="TshirtWorld example image" src="../assets/images/work/harrys-2/2.gif"></div>
+          </div>
+        </section>
+        <section class="section-size-4">
+          <div class="container">
+            <div class="column-6 centered text-center">
+              <h2>Sharp blades need cutting-edge design</h2>
+              <p>Nearly every project we've made since 2003 was award-winning. This one set the bar even higher by being internationally recognized as one of the best digital experiences ever made.</p>
+            </div>
+          </div>
+        </section>
+        <section class="lighter-bg">
+          <div class="grid center image"><img alt="TshirtWorld example image" src="../assets/images/work/harrys-2/4.jpg"><img alt="TshirtWorld example image" src="../assets/images/work/harrys-2/5.jpg"><img alt="TshirtWorld example image" src="../assets/images/work/harrys-2/6.jpg"><img alt="TshirtWorld example image" src="../assets/images/work/harrys-2/7.jpg"><img alt="TshirtWorld example image" src="../assets/images/work/harrys-2/8.jpg"></div>
+        </section>
+        <section class="post-navigation">
+          <div class="grid text-center">
+            <div class="column-6 column-tablet-6 column-mobile-6"><a class='post-navigation-link prev background-zoom' href='/pages/project-single-hopscotch'><img class="background" alt="TshirtWorld example image" src="../assets/images/work/hopscotch/1.jpg">
+                <h5 class="post-nav-title">Previous</h5></a></div>
+            <div class="column-6 column-tablet-6 column-mobile-6 lighter-bg"></div>
+          </div>
+        </section>
+      </div>
+      <!-- Footer-->
+      <footer class="footer section-size-1 border-top">
+        <div class="font-size-1"> <span>Built by </span><span> <a href="https://tmvln.com">ThemeVillain</a></span>
+          <div>&copy;2021</div>
+        </div>
+      </footer>
+    </div>
+    <!-- Scripts-->
+    <!-- Core-->
+    <script src="../assets/scripts/core.jquery.js"></script>
+    <!-- Vendor Plugins-->
+    <script src="../assets/scripts/plugin.imagesloaded.pkgd.js"></script>
+    <script src="../assets/scripts/plugin.in-viewport.js"></script>
+    <script src="../assets/scripts/plugin.animate.js"></script>
+    <script src="../assets/scripts/plugin.isotope.pkgd.min.js"></script>
+    <script src="../assets/scripts/plugin.ScrollToPlugin.min.js"></script>
+    <script src="../assets/scripts/plugin.SplitText.js"></script>
+    <script src="../assets/scripts/plugin.TweenMax.min.js"></script>
+    <script src="../assets/scripts/plugin.touchSwipe.min.js"></script>
+    <script src="../assets/scripts/plugin.typed.min.js"></script>
+    <!-- Plugins-->
+    <script src="../assets/plugins/nevo-slider/nevo-slider.js"></script>
+    <script src="../assets/plugins/nevo-lightbox/nevo-lightbox.js"></script>
+    <script src="../assets/scripts/main.functions.js"></script>
+  </body>
+</html>
